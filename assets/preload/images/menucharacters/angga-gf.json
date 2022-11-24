@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_AnggaGF",
+	"position": [
+		350,
+		-25
+	],
+	"scale": 1.3,
+	"idle_anim": "M GF Idle",
+	"confirm_anim": "M GF Idle"
+}

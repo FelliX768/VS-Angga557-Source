@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_ANGGA557",
+	"position": [
+		-350,
+		-40
+	],
+	"scale": 1.3,
+	"idle_anim": "M BF Idle",
+	"confirm_anim": "M bf HEY"
+}
